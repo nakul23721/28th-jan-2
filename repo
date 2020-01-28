@@ -3,6 +3,7 @@ class student
 {
 int rollno;
 char name[20];
+int sapid[10];
 void insert();
 void print();
-} s1,s2iI;
+} s1,s2;
