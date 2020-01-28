@@ -1,0 +1,8 @@
+#include<iostream.h>
+class student
+{
+int rollno;
+char name[20];
+void insert();
+void print();
+} s1,s2iI;
